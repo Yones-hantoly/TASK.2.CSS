@@ -1,0 +1,39 @@
+.iphones{
+background-color:white;  
+text-align: center;  
+}
+img{
+width: 120px;    
+}
+.iphone{
+background-color: white;
+display: inline-block;
+margin:2px;
+border: 2px solid darkgray;
+}
+h2{
+text-align: left;    
+}
+.iphone9{
+border:2px solid rgb(31, 31, 208) ;
+display: inline-block;
+}
+.iphonesx{
+ border:2px solid rgb(31, 31, 208) ;
+display: inline-block;    
+}
+.sale{
+color: green; 
+font-size: large;   
+}
+.sales{
+color: red;  
+font-size: small;  
+}
+button{
+background-color: blue;  
+color:white;
+}
+.fa-regular{
+color: white; 
+}
